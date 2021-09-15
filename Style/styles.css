@@ -1,0 +1,145 @@
+.pg{
+   padding: 50px 30px;
+   font-size: 20px;
+   text-align: center;
+   font-family: 'Sacramento', cursive;
+   color: rgb(173, 180, 179);
+   
+  }
+  body{
+    background-color:black;
+    color:#555;
+    font-family:Arial, Helevetica, sans-serif;
+    font-size:16px;
+    margin-bottom: 120px;
+    
+}
+
+.header-img{
+    margin-top: 0;
+    padding: 0;
+}
+
+
+.footer {
+    
+    background-color:#071229;
+    color: white;
+    margin-bottom: 0px;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+.card-body {
+    min-width: 350px;
+    min-height: 300px;
+    max-width: 351px;
+    margin-right: 5px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px 0 white;
+    transition: 0.3s;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.card-body2{
+    background-color: white;
+}
+.card-body h5{
+    padding-top: 8px;
+    font-size: 16px;
+}
+.navbar_override{
+    background-color:#071229;
+    color: white;
+}
+
+.pershkrimi {
+    font-size: 13px;
+}
+
+
+.card-body:hover {
+box-shadow: 0 8px 16px 0 #2374C4;
+}
+
+.btn-primary{
+    margin-left: 20px;
+}
+a.custom-card,
+a.custom-card:hover {
+color: inherit;
+}
+
+
+.dropbtn {
+display:block;
+color: white;
+text-align: center;
+padding: 9px 16px;
+text-decoration: none;
+}
+
+
+li.dropdown {
+display: inline-block;
+}
+
+.dropdown-content {
+display: none;
+position: absolute;
+background-color: #f9f9f9;
+min-width: 160px;
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+z-index: 1;
+}
+
+.dropdown-content a {
+color: black;
+padding: 12px 16px;
+text-decoration: none;
+display: block;
+text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content {
+display: block;
+}
+.card-header2{
+    background-color:#255C99;
+    text-align: center;
+    color: white;
+}
+
+.login_cardoverride{
+    margin-top: 30px;
+}
+
+.errmsg{
+    color: red;
+    text-align: left;
+    font-size: 12px;
+}
+
+.button {
+
+    padding: 6px 8px;
+    font-size: 13px;
+    cursor: pointer;
+
+    border: none;
+    border-radius: 20px;
+    
+  }
+  
+.kerko{
+    border-radius: 10px;
+    width: 100px;
+
+}
+  
